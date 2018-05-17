@@ -1,0 +1,3 @@
+- chevron de rive biais
+- tracé par herse
+- faitage de pente

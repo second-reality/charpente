@@ -1,0 +1,2 @@
+- toit mandala face aplomb
+- adaptable à toute taille

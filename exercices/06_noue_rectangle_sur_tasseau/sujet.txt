@@ -1,0 +1,19 @@
+250x250x250
+Noue diagonale haut-gauche vers bas-droite
+Côté droit, écart de 50 avec l'axe
+Côté bas, arrivée sur la sablière.
+
+Cela crée une noue rectangle.
+
+Note:
+- Dévoiement à réaliser
+- Le délardement du dessous de noue ne sera pas le même qu'au dessus (décalage
+  de la ligne d'intersection des 2 lattis dû à la différence de pente).
+
+Tailles:
+- Chevron: 2x2.5 
+- Arba: 3.5x2.5
+- Poinçon: 4x4
+- Fourrure de noue: 2.5x?
+- Panne: 3.5x2.5
+- Faîtage: 2.5x3.5

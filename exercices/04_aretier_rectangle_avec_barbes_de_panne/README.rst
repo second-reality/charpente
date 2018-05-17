@@ -1,0 +1,3 @@
+- barbe de panne (aplomb/dévers)
+- vue par bout arêtier poussée (et barbe de panne)
+- dévoiement arêtier

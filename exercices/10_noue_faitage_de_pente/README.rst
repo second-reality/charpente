@@ -1,0 +1,3 @@
+- faitage de pente
+- chevron d'emprunt avec lattis en pente
+- barbe de panne (vue par bout + vue en plan + vue par bout altitude X)

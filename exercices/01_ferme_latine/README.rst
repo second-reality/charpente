@@ -1,0 +1,3 @@
+- Dessin d'une ferme, méthodologie
+- Ligne de trave/axe
+- Angle contrefiche

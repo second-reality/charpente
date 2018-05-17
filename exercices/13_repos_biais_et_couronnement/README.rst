@@ -1,0 +1,3 @@
+- couronnement poinçon multi versants
+- tracé par rembarrement
+- tracé par alignement (+ explication)
