@@ -28,7 +28,7 @@ do
     echo
     echo $ex
     echo $(echo $ex | sed -e 's/./=/g')
-    echo "\`Voir en ligne <http://sharecad.org/cadframe/load?url=https://raw.githubusercontent.com/second-reality/charpente/master/exercices/$ex/dessin.dxf>\`_"
+    echo "\`Voir en ligne <http://sharecad.org/cadframe/load?url=https://raw.githubusercontent.com/second-reality/charpente/master/exercices/$ex/dessin_$ex.dxf>\`_"
     echo
     cat $ex/README.rst
 done >> $out 
